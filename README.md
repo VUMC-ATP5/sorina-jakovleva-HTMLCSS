@@ -1,3 +1,13 @@
-# Šīs ir mans pirmais repozitorijs
-## Šī ir versija 2, kas atrodas tikai otrajā zarā
-šis tiks papildināts vēlāk
+# Mans starts IT ar **_Riga TechGirls_** komūnu
+## Kas ir **_Riga TechGirls_**
+<sub>   Organizācijas **_Riga TechGirls_** **mērķis** ir ***meiteņu izglītošana, iedvesmošana un palīdzība kontaktu veidošanā, iestājoties par līdzsvarotāku nākotni ar abu dzimumu pārstāvniecību tehnoloģiju biznesā***.
+**_Riga TechGirls_** iniciatores un līdzdibinātājas ir **Anna Andersone** un **Alise Semjonova** – viņas bija vienas no pirmajām sievietēm, kuras 2014.gadā sāka darboties tehnoloģiju jaunuzņēmumos, kas pēdējos gados strauji attīstījušies. «Ir vispārzināms fakts, ka tehnoloģiju biznesā sieviešu ir daudz mazāk nekā vīriešu. Mēs gribam to līdzsvarot, jo pieredze rāda, ka ir labāki rezultāti, strādājot kopā. Mēs negribam runāt par to, ka sievietes ir ar kaut ko labākas,» saka **A. Andersone**. **A. Semjonova** norāda, ka tehnoloģijas ir nākotne un daudzi amati, kas tagad ir, ar laiku izzudīs. «Vai mēs to gribam vai nē, bet viss virzās tehnoloģiju virzienā. Šobrīd sievietes uz tehnoloģijām īpaši neskatās, tāpēc mums jādara viss iespējamais, lai parādītu, ka sievietēm ir iespēja iesaistīties šajā jomā. Ir svarīgi par to runāt, lai radītu iespējas sievietēm iesaistīties. Tehnoloģijas ir neizbēgama mūsu visu nākotne. Kāpēc gan lai tajā būtu pārstāvēts tikai viens dzimums?» tā viņa. Uzņēmēja arī piebilst, ka tāpat viņas paaudze skolā mācījās lasīt un rēķināt, drīzumā bērni mācīsies programmēt un tā vienkārši ir vēl viena valoda, kurā cilvēki izsakās. Pilns Andas Aseres raksts par organizāciju **_Riga TechGirls_** ir pieejams [Dienas bizness interneta vietnē](https://www.db.lv/zinas/preview/atklaj-riga-techgirls-kustibu-450863). </sub> 
+## Kāds ir mans fokuss IT nozarē, kur vēlos darboties
+<sub>Par Organizāciju **_Riga TechGirls_** uzzināju no savas draudzenes, kas jau bija veiksmīgi apguvusi programmu **She goes Tech** un iedrošināja arī mani pamēģināt. Uz to brīdi, kas es biju nolēmusi startēt bija iespēja bezmaksas noklausīties mācību kursu **"Iepazīsti tehnoloģijas"**, kurā es arī pieteicos. Šīs kurss rādīja priekšstatu par IT nozari, par to, kādas profesijas jeb jomas vispār ir, ko katrā no tām risina jeb ievieš dzīvē. Pēc kursa nobeiguma sapratu, ka *man patīk IT* un padodas tieši *testēšanas joma* jeb virziens, kurā es arī turpinu savu attīstību. Pēc veiksmīga **"Iepazīsti tehnoloģijas"** kursa noklausīšanas man piedāvāja turpināt darboties **Riga TechGirls** organizētajā *Mentorship programmā*. Programmas ietvarā es apgūstu teorētiskās zināšanas Testēšanā, lasot, daloties pieredzē ar citām iesaistītām dalībniecēm un izpildīju arī nelielus prakstiskus uzdevumus, piemēram vienā no mājās lapām atradu dažus *"bugs"* un veicu kļūdu reģistrēšanu. 
+Piemēram uzdevumi, kas tika paveikti:
+1. Izveidota uzskatāma shēma (mirror tūlā) par Testēšanu, tās tipiem, līmeņiem, metodēm un pieejām;
+2. Uztaisīta prezentācija (PowerPointā) par Testēšanas tipiem (Unit, Integration, System un Aceptance) ar
+nelieliem praktiskiem piemēriem no dzīves, kur ikdienā mēs ar tiem sastopamies.</sub>
+## Vai tas bija tā vērts?
+<sub>Man ir liels prieks, ka IT komūna ir draudzīga un gatava dalīties savās zināšanās, tāpēc, manuprāt, tā ir iespēja, kas viennozīmīgi jāizmanto! </sub>
+
