@@ -1,0 +1,67 @@
+body {
+    background-color: whitesmoke;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    display: block;
+    text-align: justify;
+
+}
+div.pilnais{
+    min-height: 100px;
+    background-color:grey ;
+    display: grid;
+    grid-template-columns: 2fr 4fr;
+}
+div.kreisais{
+    min-height: 50px;
+    position: initial;
+    background-color: lightgrey;
+    padding: 20px;
+}
+div.labais{
+    min-height: 50px;
+    position: initial;
+    background-color: gray;
+    color: azure;
+    padding: 20px;
+}
+h1{
+    padding-left: 10px;
+    text-align: center;
+}
+h2 {
+    padding-left: 10px;
+    text-align: center;
+}
+h3{
+    padding-left: 10px;
+    text-align: center;
+}
+h4{
+    padding-left: 10px;
+   text-align: center;
+}
+a{
+    color: blue;
+}
+li{
+    padding-left: auto;
+    text-align: justify;
+}
+image img{
+    width: 10%;
+}
+img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    background-size: 80px;
+  width: 250px;
+  height: 300px
+} 
+    
