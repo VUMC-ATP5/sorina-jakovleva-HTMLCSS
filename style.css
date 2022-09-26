@@ -12,6 +12,7 @@ p{
 div.pilnais{
     min-height: 100px;
     background-color:grey ;
+
     display: grid;
     grid-template-columns: 2fr 4fr;
 }
@@ -64,4 +65,4 @@ img {
   width: 250px;
   height: 300px
 } 
-    
+  
